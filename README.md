@@ -15,3 +15,5 @@ Data Model Optimization
 
 Tableau Visualizations
 	We used Tableau to create visualizations of our data to help show the results in a more digestible fashion. The first graph shows how employment status affects whether patients will show up for their appointment or not. The next graph shows the effect distance from the facility has on whether patients show up for their appointments. The last graph looks at chronic disease by age and gender.
+
+ https://public.tableau.com/app/profile/natalie.lopez5565/viz/HealthcareData_17206573267830/IdentifyingNo-ShowPatterns?publish=yes
